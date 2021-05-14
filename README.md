@@ -1,2 +1,2 @@
-# Deep-Learning
+# Deep Learning
 My journey about deep learning
